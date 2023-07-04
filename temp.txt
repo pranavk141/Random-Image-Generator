@@ -1,0 +1,44 @@
+[33mcommit b0f474de498b177504da69edef1a8d77a9b92c97[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: pranavk141 <99550232+pranavk141@users.noreply.github.com>
+Date:   Tue Jul 4 22:20:41 2023 +0530
+
+    Update index.html
+    
+    Comment added
+
+[33mcommit 101da85aecc32ae3fbca7d00f39792f940707081[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: acff64e c5cd514
+Author: pranavk141 <prarider@gmail.com>
+Date:   Tue Jul 4 20:21:04 2023 +0530
+
+    Image finally edited
+
+[33mcommit c5cd51417c67b2846e46ca530555b9c15ff94d36[m
+Author: pranavk141 <prarider@gmail.com>
+Date:   Tue Jul 4 20:16:39 2023 +0530
+
+    Image edited successfully
+
+[33mcommit acff64ee30b554f221c45b685faa05dfcdd91b20[m
+Author: pranavk141 <prarider@gmail.com>
+Date:   Tue Jul 4 19:52:56 2023 +0530
+
+    Emergency error fixed
+
+[33mcommit 87cc3f530394e579ddf5a0ba0ce0a4423021c3c7[m
+Author: pranavk141 <prarider@gmail.com>
+Date:   Tue Jul 4 12:44:30 2023 +0530
+
+    Added image to index.html
+
+[33mcommit 72500c71bdeae3573ecc920c8a1599d4cfef9344[m
+Author: pranavk141 <prarider@gmail.com>
+Date:   Sun Jul 2 22:29:39 2023 +0530
+
+    Commit without staging
+
+[33mcommit 1a386e2b21cb8be317ceb7af299cd6bb8339ca11[m
+Author: pranavk141 <prarider@gmail.com>
+Date:   Sun Jul 2 22:26:33 2023 +0530
+
+    My first commit
